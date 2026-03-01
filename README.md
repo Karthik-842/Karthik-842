@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏽‍💻 Front-end Developer(Self - Taught).<br>🔭 Working on front-end projects at the moment.<br>🫱🏻‍🫲🏾 Seeking partnerships on projects based on React and Next.<br>🌱 Ongoing: Learning Next Js.<br>🌐 Visit: <br>📮https://karthik-portfolio-842.vercel.app/ Reach me 
+👨🏽‍💻 Front-end Developer(Self - Taught).<br>🔭 Working on front-end projects at the moment.<br>🫱🏻‍🫲🏾 Seeking partnerships on projects based on React and Next.<br>🌱 Ongoing: Learning Next Js and Node JS.<br>🌐 Visit: <br>📮 Reach me 
 
 
 # 💻 Tech Stack:
